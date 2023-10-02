@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deepak Bhatt
-- 👀 I’m interested in in learning new technologies and tring out new and amazing stuffs
-- 🌱 I’m currently learning Node.js
-- 💞️ Would Love to collab on WebDev Projects
+- 👀 I’m interested in learning new technologies and trying out new and amazing stuff
+- 🌱 I’m currently learning Backend Development
+- 💞️ Would Love to collab on exciting Web Development Projects
 
 <!---
 deepakbhatttt/deepakbhatttt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
