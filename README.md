@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Deepak Bhatt
 - 👀 I’m interested in learning new technologies and trying out new and amazing stuff
-- 🌱 I’m currently learning Backend Development
 - 💞️ Would Love to collab on exciting Web Development Projects
 
 <!---
